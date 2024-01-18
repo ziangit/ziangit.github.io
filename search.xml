@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>学习进度</title>
+      <link href="/2024/01/19/2024-1-19-%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6/"/>
+      <url>/2024/01/19/2024-1-19-%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6/</url>
+      
+        <content type="html"><![CDATA[<h2 id="当我学习时，我在学什么"><a href="#当我学习时，我在学什么" class="headerlink" title="当我学习时，我在学什么"></a>当我学习时，我在学什么</h2><p>总感觉在学校学习的东西太少了，于是打算通过网课来自学，以下分享各类课程的进度和测评。</p><h1 id="1-MIT-计算机科学课堂中学不到的知识"><a href="#1-MIT-计算机科学课堂中学不到的知识" class="headerlink" title="1. [MIT]计算机科学课堂中学不到的知识"></a>1. [MIT]计算机科学课堂中学不到的知识</h1><p>链接：<a href="https://www.bilibili.com/video/BV1x7411H7wa/">https://www.bilibili.com/video/BV1x7411H7wa/</a></p><p>学到了吗？如学。<br>尽管计算机科班教育不会系统地讲述命令行、版本控制、调试、密码学等知识，但是我们往往可以从Linux、分布式系统、软件开发、以及项目和工作经验中逐渐习得这些技巧。总体来说这门课讲的不是很细，而是笼统地把其他课程需要自学的技术用一门11小时课程的方式展现给你看。如果这是MIT一门算学分的课我一定会去上的x</p><p>进度：进行中<br>知识分：5分 毕竟MIT出品<br>实用分：3分 学了肯定有用</p><h1 id="2-Ultimate-AWS-Certified-Solutions-Architect-Associate-SAA-C03"><a href="#2-Ultimate-AWS-Certified-Solutions-Architect-Associate-SAA-C03" class="headerlink" title="2. Ultimate AWS Certified Solutions Architect Associate SAA-C03"></a>2. Ultimate AWS Certified Solutions Architect Associate SAA-C03</h1><p>链接：Udemy</p><p>一门备受好评的AWS入门教程，基本算是大家的考证必备。总体来说课程不长上完就能刷题，建议把课程里的实践都做了。</p><p>进度：进行中<br>知识分：5分 作为入门课无可挑剔<br>实用分：5分 学了就是为了考证</p><h1 id="3-黑马程序员SpringBoot3-Vue3全套视频教程"><a href="#3-黑马程序员SpringBoot3-Vue3全套视频教程" class="headerlink" title="3. 黑马程序员SpringBoot3+Vue3全套视频教程"></a>3. 黑马程序员SpringBoot3+Vue3全套视频教程</h1><p>链接： <a href="https://www.bilibili.com/video/BV14z4y1N7pg">https://www.bilibili.com/video/BV14z4y1N7pg</a></p><p>其实看到的时候有点破防，专科的软件开发讲得比CMU还好（CMU的意思估计也是这么基础的东西请自学）。</p><p>进度：已完成<br>知识分：5分 全是干货没什么废话<br>实用分：4分 扣一分给用Vue不用React</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2024年的第一篇文章</title>
       <link href="/2024/01/18/2024-1-18-hello_world/"/>
       <url>/2024/01/18/2024-1-18-hello_world/</url>
@@ -16,5 +29,62 @@
     
     
   
+  
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movie/index.html"/>
+      <url>/movie/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
   
 </search>
