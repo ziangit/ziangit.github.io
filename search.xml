@@ -33,7 +33,7 @@
       <link href="/2024/01/19/2024-1-19-%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6/"/>
       <url>/2024/01/19/2024-1-19-%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6/</url>
       
-        <content type="html"><![CDATA[<h2 id="当我学习时，我在学什么"><a href="#当我学习时，我在学什么" class="headerlink" title="当我学习时，我在学什么"></a>当我学习时，我在学什么</h2><p>总感觉在学校学习的东西太少了，于是打算通过网课来自学，以下分享各类课程的进度和测评。</p><h1 id="1-MIT-计算机科学课堂中学不到的知识"><a href="#1-MIT-计算机科学课堂中学不到的知识" class="headerlink" title="1. [MIT]计算机科学课堂中学不到的知识"></a>1. [MIT]计算机科学课堂中学不到的知识</h1><p>链接：<a href="https://www.bilibili.com/video/BV1x7411H7wa/">https://www.bilibili.com/video/BV1x7411H7wa/</a></p><p>学到了吗？如学。<br>尽管计算机科班教育不会系统地讲述命令行、版本控制、调试、密码学等知识，但是我们往往可以从 Linux、分布式系统、软件开发、以及项目和工作经验中逐渐习得这些技巧。总体来说这门课讲的不是很细，而是笼统地把其他课程需要自学的技术用一门 11 小时课程的方式展现给你看。如果这是 MIT 一门算学分的课我一定会去上的 x</p><p>不想记笔记了，随便找个笔记看吧：<br><a href="https://missing-semester-cn.github.io/missing-notes-and-solutions/">https://missing-semester-cn.github.io/missing-notes-and-solutions/</a><br><a href="https://blog.csdn.net/weixin_39802680/article/details/122939153">https://blog.csdn.net/weixin_39802680/article/details/122939153</a><br><a href="https://www.cnblogs.com/cxl-/p/15383225.html">https://www.cnblogs.com/cxl-/p/15383225.html</a></p><ol><li><p>课程概述 + Shell<br>简单命令行介绍，第一节课不会太难，面向初入 CS 的新生，有经验的可以跳过</p></li><li><p>Shell 工具和脚本编写<br>拉美口音有点重了，但勉强还是能二倍速+字幕跟上。<br>这节课讲了一些简单的脚本逻辑，不过我觉得讲的非常一般：没有讲解脚本的底层逻辑，也没有用例子讲明脚本用来干什么。<br>总体来说是一节一小时简单介绍脚本的课，以后有不懂的建议直接问 ChatGPT 和 StackOverflow。</p></li><li><p>Vim 编辑器<br><img src="/../img/vim.png" alt="avatar"><br>比较实用的一节课，讲了 Vim 编辑器的使用方法和实用小技巧。一般来说我们都习惯于用 Intellij 等编辑器编程，用 VSCode，word，txt 等工具打字，但 Vim 的效率确实是很高的，它能让你实现纯靠键盘不用鼠标完成所有工作。但即便如此，除了 Linux 环境我还是基本不用 Vim 的 x</p></li><li><p>数据整理<br><img src="/../img/regex.png" alt="avatar"><br>本来以为是要讲数据流数据仓库云计算的，结果讲了大半节课的正则，头有点大。一般对于简单的正则建议直接问 ChatGPT 和相关网站，复杂的正则根本不想写，规范接口然后后端处理感觉就行了（宁愿 python）。太复杂的正则不但别人看不懂，过了一天甚至自己都看不懂。</p></li><li><p>命令行环境<br>讲了 Job Control, Teminal Multiplexer, Dotfiles 等知识。感觉和生产环境关系不大，可以跳过</p></li><li><p>版本控制<br>Git 是所有程序员的必修课，但是一般的本科课程都没有一节专门的课来讲这些。和大部分 Git 教学不同，本节课并没有远程连接一个 Github 仓库而是连的本地（</p></li><li><p>调试和性能分析<br>平时我们都是用什么来测试程序的呢？Prinf？Log？还是 Unit Test？本节课主要介绍了常见的测试方法，python 的命令行测试确实让我学到许多，因为我之前写 ML 都是用 Unit Test 和打印来调试的（<br>在课程的结尾老师说的一句话可能也是这节课的核心，在课上讲的这些知识不一定要你全部掌握，但你要知道它们的存在并在以后的工作学习中或多或少的用上他们。</p></li></ol><p>进度：进行中<br>知识分：5 分 毕竟 MIT 出品<br>实用分：3 分 学了肯定有用，不过知识点比较浅+广，在日后的工作和学习中这些知识多少会接触，适合大一新生的 CS 入门课。</p><h1 id="2-Ultimate-AWS-Certified-Solutions-Architect-Associate-SAA-C03"><a href="#2-Ultimate-AWS-Certified-Solutions-Architect-Associate-SAA-C03" class="headerlink" title="2. Ultimate AWS Certified Solutions Architect Associate SAA-C03"></a>2. Ultimate AWS Certified Solutions Architect Associate SAA-C03</h1><p>链接：Udemy</p><p>一门备受好评的 AWS 入门教程，基本算是大家的考证必备。总体来说课程不长上完就能刷题，建议把课程里的实践都做了。</p><p>进度：进行中<br>知识分：5 分 作为入门课无可挑剔<br>实用分：5 分 学了就是为了考证</p><h1 id="3-黑马程序员-SpringBoot3-Vue3-全套视频教程"><a href="#3-黑马程序员-SpringBoot3-Vue3-全套视频教程" class="headerlink" title="3. 黑马程序员 SpringBoot3+Vue3 全套视频教程"></a>3. 黑马程序员 SpringBoot3+Vue3 全套视频教程</h1><p>链接： <a href="https://www.bilibili.com/video/BV14z4y1N7pg">https://www.bilibili.com/video/BV14z4y1N7pg</a></p><p>其实看到的时候有点破防，专科的软件开发讲得比 CMU 还好（CMU 的意思估计也是这么基础的东西请自学）。算法靠竞赛，开发靠网课，那上的这个学有什么意思呢？可能这个视频就是我开始自学网课的契机吧。</p><p>进度：已完成<br>知识分：5 分 全是干货没什么废话<br>实用分：4 分 扣一分给用 Vue 不用 React</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="当我学习时，我在学什么"><a href="#当我学习时，我在学什么" class="headerlink" title="当我学习时，我在学什么"></a>当我学习时，我在学什么</h2><p>总感觉在学校学习的东西太少了，于是打算通过网课来自学，以下分享各类课程的进度和测评。</p><h1 id="1-MIT-计算机科学课堂中学不到的知识"><a href="#1-MIT-计算机科学课堂中学不到的知识" class="headerlink" title="1. [MIT]计算机科学课堂中学不到的知识"></a>1. [MIT]计算机科学课堂中学不到的知识</h1><p>链接：<a href="https://missing.csail.mit.edu/">https://missing.csail.mit.edu/</a><br>B 站：<a href="https://www.bilibili.com/video/BV1x7411H7wa/">https://www.bilibili.com/video/BV1x7411H7wa/</a></p><p>学到了吗？如学。<br>尽管计算机科班教育不会系统地讲述命令行、版本控制、调试、密码学等知识，但是我们往往可以从 Linux、分布式系统、软件开发、以及项目和工作经验中逐渐习得这些技巧。总体来说这门课讲的不是很细，而是笼统地把其他课程需要自学的技术用一门 11 小时课程的方式展现给你看。如果这是 MIT 一门算学分的课我一定会去上的 x</p><p>不想记笔记了，随便找个笔记看吧：<br><a href="https://missing-semester-cn.github.io/missing-notes-and-solutions/">https://missing-semester-cn.github.io/missing-notes-and-solutions/</a><br><a href="https://blog.csdn.net/weixin_39802680/article/details/122939153">https://blog.csdn.net/weixin_39802680/article/details/122939153</a><br><a href="https://www.cnblogs.com/cxl-/p/15383225.html">https://www.cnblogs.com/cxl-/p/15383225.html</a></p><ol><li><p>课程概述 + Shell<br>简单命令行介绍，第一节课不会太难，面向初入 CS 的新生，有经验的可以跳过</p></li><li><p>Shell 工具和脚本编写<br>拉美口音有点重了，但勉强还是能二倍速+字幕跟上。<br>这节课讲了一些简单的脚本逻辑，不过我觉得讲的非常一般：没有讲解脚本的底层逻辑，也没有用例子讲明脚本用来干什么。<br>总体来说是一节一小时简单介绍脚本的课，以后有不懂的建议直接问 ChatGPT 和 StackOverflow。</p></li><li><p>Vim 编辑器<br><img src="/../img/vim.png" alt="avatar"><br>比较实用的一节课，讲了 Vim 编辑器的使用方法和实用小技巧。一般来说我们都习惯于用 Intellij 等编辑器编程，用 VSCode，word，txt 等工具打字，但 Vim 的效率确实是很高的，它能让你实现纯靠键盘不用鼠标完成所有工作。但即便如此，除了 Linux 环境我还是基本不用 Vim 的 x</p></li><li><p>数据整理<br><img src="/../img/regex.png" alt="avatar"><br>本来以为是要讲数据流数据仓库云计算的，结果讲了大半节课的正则，头有点大。一般对于简单的正则建议直接问 ChatGPT 和相关网站，复杂的正则根本不想写，规范接口然后后端处理感觉就行了（宁愿 python）。太复杂的正则不但别人看不懂，过了一天甚至自己都看不懂。</p></li><li><p>命令行环境<br>讲了 Job Control, Teminal Multiplexer, Dotfiles 等知识。感觉和生产环境关系不大，可以跳过</p></li><li><p>版本控制<br>Git 是所有程序员的必修课，但是一般的本科课程都没有一节专门的课来讲这些。和大部分 Git 教学不同，本节课并没有远程连接一个 Github 仓库而是连的本地（</p></li><li><p>调试和性能分析<br>平时我们都是用什么来测试程序的呢？Prinf？Log？还是 Unit Test？本节课主要介绍了常见的测试方法，python 的命令行测试确实让我学到许多，因为我之前写 ML 都是用 Unit Test 和打印来调试的（<br>在课程的结尾老师说的一句话可能也是这节课的核心，在课上讲的这些知识不一定要你全部掌握，但你要知道它们的存在并在以后的工作学习中或多或少的用上它们。</p></li><li><p>元编程<br>Metagame! 元编程不是写代码，而是构建系统、代码测试、和依赖管理等概念。本节课讲了 CI（Continuous integration）这个比较实用的概念，大概就是当你的仓库发生修改时你的系统应该怎么响应。</p></li><li><p>安全和密码学<br>简单密码学入门，public private key 之类的概念</p></li><li><p>综合各类知识<br>守护进程、API、VPN 等知识</p></li><li><p>QA<br>回答问题</p></li></ol><p>进度：已完结<br>知识分：5 分 毕竟 MIT 出品<br>实用分：3 分 学了肯定有用，不过知识点比较浅+广，在日后的工作和学习中这些知识多少会接触，适合大一新生的 CS 入门课。</p><h1 id="2-Ultimate-AWS-Certified-Solutions-Architect-Associate-SAA-C03"><a href="#2-Ultimate-AWS-Certified-Solutions-Architect-Associate-SAA-C03" class="headerlink" title="2. Ultimate AWS Certified Solutions Architect Associate SAA-C03"></a>2. Ultimate AWS Certified Solutions Architect Associate SAA-C03</h1><p>链接：Udemy</p><p>一门备受好评的 AWS 入门教程，基本算是大家的考证必备。总体来说课程不长上完就能刷题，建议把课程里的实践都做了。</p><p>进度：进行中<br>知识分：5 分 作为入门课无可挑剔<br>实用分：5 分 学了就是为了考证</p><h1 id="3-黑马程序员-SpringBoot3-Vue3-全套视频教程"><a href="#3-黑马程序员-SpringBoot3-Vue3-全套视频教程" class="headerlink" title="3. 黑马程序员 SpringBoot3+Vue3 全套视频教程"></a>3. 黑马程序员 SpringBoot3+Vue3 全套视频教程</h1><p>链接： <a href="https://www.bilibili.com/video/BV14z4y1N7pg">https://www.bilibili.com/video/BV14z4y1N7pg</a></p><p>其实看到的时候有点破防，专科的软件开发讲得比 CMU 还好（CMU 的意思估计也是这么基础的东西请自学）。算法靠竞赛，开发靠网课，那上的这个学有什么意思呢？可能这个视频就是我开始自学网课的契机吧。</p><p>进度：已完成<br>知识分：5 分 全是干货没什么废话<br>实用分：4 分 扣一分给用 Vue 不用 React</p>]]></content>
       
       
       <categories>
@@ -82,17 +82,6 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -129,6 +118,17 @@
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
