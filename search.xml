@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>避免Key在Github上泄露简单小技巧</title>
+      <link href="/2024/02/05/2024-2-5-%E4%BB%A3%E7%A0%81%E4%BF%9D%E5%AF%86%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+      <url>/2024/02/05/2024-2-5-%E4%BB%A3%E7%A0%81%E4%BF%9D%E5%AF%86%E5%B0%8F%E6%8A%80%E5%B7%A7/</url>
+      
+        <content type="html"><![CDATA[<h2 id="避免-Key-在-Github-上泄露简单小技巧"><a href="#避免-Key-在-Github-上泄露简单小技巧" class="headerlink" title="避免 Key 在 Github 上泄露简单小技巧"></a>避免 Key 在 Github 上泄露简单小技巧</h2><p><img src="/../img/path.png" alt="avatar"><br><img src="/../img/getEnv.png" alt="avatar"></p><p>刚入门云的时候犯过的错误，然后最近发现很多小伙伴也遇到过同样的问题。</p><p>为了避免本地个人信息在公共仓库 Github 上泄露（然后被路过网友把云刷爆），推荐直接使用 System.getEnv()来获取系统变量，改完系统变量后重启一下 IDE 就 OK 啦。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>快捷键！</title>
       <link href="/2024/02/01/2024-2-1-%E5%BF%AB%E6%8D%B7%E9%94%AE%EF%BC%81/"/>
       <url>/2024/02/01/2024-2-1-%E5%BF%AB%E6%8D%B7%E9%94%AE%EF%BC%81/</url>
@@ -132,22 +157,22 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="关于这个，关于那个"><a href="#关于这个，关于那个" class="headerlink" title="关于这个，关于那个"></a>关于这个，关于那个</h2><p>这是一个个人小站，用来分享技术和各种二次元测评~</p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="关于这个，关于那个"><a href="#关于这个，关于那个" class="headerlink" title="关于这个，关于那个"></a>关于这个，关于那个</h2><p>这是一个个人小站，用来分享技术和各种二次元测评~</p>]]></content>
       
     </entry>
     
@@ -165,9 +190,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -176,9 +201,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
