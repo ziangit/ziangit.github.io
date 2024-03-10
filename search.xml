@@ -4,11 +4,36 @@
   
     
     <entry>
-      <title>AWS</title>
+      <title>Leetcode刷题笔记</title>
+      <link href="/2024/03/08/2024-3-9-%E5%88%B7%E9%A2%98%E7%AC%94%E8%AE%B0/"/>
+      <url>/2024/03/08/2024-3-9-%E5%88%B7%E9%A2%98%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Leetcode-刷题笔记"><a href="#Leetcode-刷题笔记" class="headerlink" title="Leetcode 刷题笔记"></a>Leetcode 刷题笔记</h2><p>菜鸡水平，温故知新</p><h1 id="1-刷题相关资源"><a href="#1-刷题相关资源" class="headerlink" title="1. 刷题相关资源"></a>1. 刷题相关资源</h1><p>Leetcode: <a href="https://leetcode.com/">https://leetcode.com/</a></p><p>代码随想录： <a href="https://github.com/youngyangyang04/leetcode-master">https://github.com/youngyangyang04/leetcode-master</a></p><p>OA: <a href="https://github.com/perixtar/2024-Tech-OA">https://github.com/perixtar/2024-Tech-OA</a></p><h1 id="1-Backtrack"><a href="#1-Backtrack" class="headerlink" title="1. Backtrack"></a>1. Backtrack</h1><p>Combo Sum, Permutations, Subsets, and Word Search</p><p>N-Queens is a great one</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>AWS复习笔记</title>
       <link href="/2024/02/11/2024-2-12-AWS%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
       <url>/2024/02/11/2024-2-12-AWS%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
       
-        <content type="html"><![CDATA[<h2 id="当我学习时，我在学什么"><a href="#当我学习时，我在学什么" class="headerlink" title="当我学习时，我在学什么"></a>当我学习时，我在学什么</h2><p>记个 AWS 备考小笔记</p><h1 id="1-MIT-计算机科学课堂中学不到的知识"><a href="#1-MIT-计算机科学课堂中学不到的知识" class="headerlink" title="1. [MIT]计算机科学课堂中学不到的知识"></a>1. [MIT]计算机科学课堂中学不到的知识</h1>]]></content>
+        <content type="html"><![CDATA[<h2 id="AWS-复习笔记（现在应该是总结了）"><a href="#AWS-复习笔记（现在应该是总结了）" class="headerlink" title="AWS 复习笔记（现在应该是总结了）"></a>AWS 复习笔记（现在应该是总结了）</h2><p>记个 AWS 备考小笔记</p><h1 id="1-a"><a href="#1-a" class="headerlink" title="1. a"></a>1. a</h1>]]></content>
       
       
       <categories>
@@ -105,8 +130,8 @@
     
     <entry>
       <title>CMU测评</title>
-      <link href="/2024/01/18/2024-1-19-CMU%E6%B5%8B%E8%AF%84/"/>
-      <url>/2024/01/18/2024-1-19-CMU%E6%B5%8B%E8%AF%84/</url>
+      <link href="/2024/01/19/2024-1-19-CMU%E6%B5%8B%E8%AF%84/"/>
+      <url>/2024/01/19/2024-1-19-CMU%E6%B5%8B%E8%AF%84/</url>
       
         <content type="html"><![CDATA[<h2 id="关于在-CMU-里的收获和吐槽"><a href="#关于在-CMU-里的收获和吐槽" class="headerlink" title="关于在 CMU 里的收获和吐槽"></a>关于在 CMU 里的收获和吐槽</h2><p>先挖个坑</p>]]></content>
       
@@ -193,6 +218,17 @@
     
     
     <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
@@ -218,17 +254,6 @@
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
