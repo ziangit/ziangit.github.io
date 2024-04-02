@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>React学习笔记</title>
-      <link href="/2024/03/15/2024-3-16-React%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-      <url>/2024/03/15/2024-3-16-React%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+      <title>意义不明的冷知识合集</title>
+      <link href="/2024/03/15/2024-3-16-%E5%86%B7%E7%9F%A5%E8%AF%86%E5%90%88%E9%9B%86/"/>
+      <url>/2024/03/15/2024-3-16-%E5%86%B7%E7%9F%A5%E8%AF%86%E5%90%88%E9%9B%86/</url>
       
-        <content type="html"><![CDATA[<h1 id="React-笔记"><a href="#React-笔记" class="headerlink" title="React 笔记"></a>React 笔记</h1><p>简单学下最新的 React18，参考教程：</p><p>黑马程序员前端 React18 入门到实战视频教程，从 react+hooks 核心基础到企业级项目开发实战（B 站评论、极客园项目等）及大厂面试全通关<br><a href="https://www.bilibili.com/video/BV1ZB4y1Z7o8/">https://www.bilibili.com/video/BV1ZB4y1Z7o8/</a></p><p>React - The Complete Guide 2024 (incl. React Router &amp; Redux)<br><a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">https://www.udemy.com/course/react-the-complete-guide-incl-redux/</a></p><h2 id="创建新项目"><a href="#创建新项目" class="headerlink" title="创建新项目"></a>创建新项目</h2><p>npx create-react-app react-basic</p><ol><li>npx: Node.js 工具命令，查找并执行后续的包命令</li><li>create-react-app: 核心包（固定写法），用于创建 React 项目</li><li>react-basic: React 项目名称（自定义）</li></ol>]]></content>
+        <content type="html"><![CDATA[<h2 id="一些可能不会在面试和工作中出现的意义不明冷知识合集"><a href="#一些可能不会在面试和工作中出现的意义不明冷知识合集" class="headerlink" title="一些可能不会在面试和工作中出现的意义不明冷知识合集"></a>一些可能不会在面试和工作中出现的意义不明冷知识合集</h2><h1 id="1-为什么-Java-不适合做游戏"><a href="#1-为什么-Java-不适合做游戏" class="headerlink" title="1. 为什么 Java 不适合做游戏"></a>1. 为什么 Java 不适合做游戏</h1><p>首先，Java 的不是为界面而是为企业开发的。C&#x2F;C++可以直接操作内存的，而 Java 需要安装虚拟机。Java 的垃圾回收机制是自动的，会影响游戏流畅度。<br>虽然 Java 做端游不行，但做手游页游的服务器还是没问题的！<br>(更深层的原因和 JVM 的逻辑有关，不过 Java 语言已经被打上高开发效率低运行效率的标签了)</p><p><img src="/../img/mc.jpg" alt="avatar"></p>]]></content>
       
       
       <categories>
@@ -29,11 +29,11 @@
     
     
     <entry>
-      <title>意义不明的冷知识合集</title>
-      <link href="/2024/03/15/2024-3-16-%E5%86%B7%E7%9F%A5%E8%AF%86%E5%90%88%E9%9B%86/"/>
-      <url>/2024/03/15/2024-3-16-%E5%86%B7%E7%9F%A5%E8%AF%86%E5%90%88%E9%9B%86/</url>
+      <title>React学习笔记</title>
+      <link href="/2024/03/15/2024-3-16-React%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <url>/2024/03/15/2024-3-16-React%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
       
-        <content type="html"><![CDATA[<h2 id="一些可能不会在面试和工作中出现的意义不明冷知识合集"><a href="#一些可能不会在面试和工作中出现的意义不明冷知识合集" class="headerlink" title="一些可能不会在面试和工作中出现的意义不明冷知识合集"></a>一些可能不会在面试和工作中出现的意义不明冷知识合集</h2><h1 id="1-为什么-Java-不适合做游戏"><a href="#1-为什么-Java-不适合做游戏" class="headerlink" title="1. 为什么 Java 不适合做游戏"></a>1. 为什么 Java 不适合做游戏</h1><p>首先，Java 的不是为界面而是为企业开发的。C&#x2F;C++可以直接操作内存的，而 Java 需要安装虚拟机。Java 的垃圾回收机制是自动的，会影响游戏流畅度。<br>虽然 Java 做端游不行，但做手游页游的服务器还是没问题的！<br>(更深层的原因和 JVM 的逻辑有关，不过 Java 语言已经被打上高开发效率低运行效率的标签了)</p><p><img src="/../img/mc.jpg" alt="avatar"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="React-笔记"><a href="#React-笔记" class="headerlink" title="React 笔记"></a>React 笔记</h1><p>简单学下最新的 React18，参考教程：</p><p>黑马程序员前端 React18 入门到实战视频教程，从 react+hooks 核心基础到企业级项目开发实战（B 站评论、极客园项目等）及大厂面试全通关<br><a href="https://www.bilibili.com/video/BV1ZB4y1Z7o8/">https://www.bilibili.com/video/BV1ZB4y1Z7o8/</a></p><p>React - The Complete Guide 2024 (incl. React Router &amp; Redux)<br><a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">https://www.udemy.com/course/react-the-complete-guide-incl-redux/</a></p><h2 id="创建新项目"><a href="#创建新项目" class="headerlink" title="创建新项目"></a>创建新项目</h2><p>npx create-react-app react-basic</p><ol><li>npx: Node.js 工具命令，查找并执行后续的包命令</li><li>create-react-app: 核心包（固定写法），用于创建 React 项目</li><li>react-basic: React 项目名称（自定义）</li></ol>]]></content>
       
       
       <categories>
@@ -133,7 +133,7 @@
       <link href="/2024/01/31/2024-2-1-%E5%BF%AB%E6%8D%B7%E9%94%AE%EF%BC%81/"/>
       <url>/2024/01/31/2024-2-1-%E5%BF%AB%E6%8D%B7%E9%94%AE%EF%BC%81/</url>
       
-        <content type="html"><![CDATA[<h2 id="快捷键真的可以提高生产效率吗？答案是…"><a href="#快捷键真的可以提高生产效率吗？答案是…" class="headerlink" title="快捷键真的可以提高生产效率吗？答案是…"></a>快捷键真的可以提高生产效率吗？答案是…</h2><p><img src="/../img/yang.png" alt="avatar"></p><p>只列出新学到的，切应用 Alt+Tab 且页面 Ctrl+Tab 这些就不列举了。以防你对我贫弱的快捷键知识没有足够的认知，实际上 sout 这级别的快捷键我都是最近才掌握的…</p><h1 id="Chrome"><a href="#Chrome" class="headerlink" title="Chrome"></a>Chrome</h1><p>新标签页: Ctrl + T<br>关掉当前标签页: Ctrl + W<br>跳到搜索栏: &#x2F;</p><h1 id="IntelliJ"><a href="#IntelliJ" class="headerlink" title="IntelliJ"></a>IntelliJ</h1><p>Alt + 鼠标左键：批量写字，适用于罚抄 (VSCode 也适用)<br>Alt + Enter：一键采用 IDE 建议，无脑多用</p><h1 id="File-Explorer"><a href="#File-Explorer" class="headerlink" title="File Explorer"></a>File Explorer</h1><p>File Explorer 里 CMD，打开 CMD 后 code .快速在目录下启动 vs 项目</p><h1 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h1><p>hexo cl; hexo s;<br>保存博客到本地，感觉有时候我会忘()</p><p>hexo d;<br>部署博客</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="快捷键真的可以提高生产效率吗？答案是…"><a href="#快捷键真的可以提高生产效率吗？答案是…" class="headerlink" title="快捷键真的可以提高生产效率吗？答案是…"></a>快捷键真的可以提高生产效率吗？答案是…</h2><p><img src="/../img/yang.png" alt="avatar"></p><p>只列出新学到的，切应用 Alt+Tab 且页面 Ctrl+Tab 这些就不列举了。以防你对我贫弱的快捷键知识没有足够的认知，实际上 sout 这级别的快捷键我都是最近才掌握的…</p><h1 id="Chrome"><a href="#Chrome" class="headerlink" title="Chrome"></a>Chrome</h1><p>新标签页: Ctrl + T<br>关掉当前标签页: Ctrl + W<br>跳到搜索栏: &#x2F;</p><h1 id="IntelliJ"><a href="#IntelliJ" class="headerlink" title="IntelliJ"></a>IntelliJ</h1><p>Alt + 鼠标左键：批量写字，适用于罚抄 (VSCode 也适用)<br>Alt + Enter：一键采用 IDE 建议，无脑多用</p><h1 id="File-Explorer"><a href="#File-Explorer" class="headerlink" title="File Explorer"></a>File Explorer</h1><p>File Explorer 里 CMD，打开 CMD 后 code .快速在目录下启动 vs 项目</p><h1 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h1><p>hexo cl; hexo s;<br>保存博客到本地，感觉有时候我会忘()</p><p>hexo d;<br>部署博客</p><h1 id="VSCode"><a href="#VSCode" class="headerlink" title="VSCode"></a>VSCode</h1><p>Python: Shift + Enter 跑选中的部分</p>]]></content>
       
       
       <categories>
@@ -257,28 +257,6 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="关于这个，关于那个"><a href="#关于这个，关于那个" class="headerlink" title="关于这个，关于那个"></a>关于这个，关于那个</h2><p>这是一个个人小站，用来分享技术和各种二次元测评~</p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -293,6 +271,28 @@
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="关于这个，关于那个"><a href="#关于这个，关于那个" class="headerlink" title="关于这个，关于那个"></a>关于这个，关于那个</h2><p>这是一个个人小站，用来分享技术和各种二次元测评~</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
